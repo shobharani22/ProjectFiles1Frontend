@@ -1,0 +1,35 @@
+[
+    {
+
+    "question":"Inside which HTML element do we put the javascript?",
+    "choice1":"<script>",
+    "choice2":"<javascript>",
+    "choice3":"<js>",
+    "choice4":"<scriptimage>",
+    "answer":1
+  },
+{
+    "question":" How do you write hello world in an alert box?",
+    "choice1":"msg('hello world')",
+    "choice2":"alertbox('hello world')",
+    "choice3":"msgbox('hello world')",
+    "choice4":"alert('hello world')",
+    "answer":4
+},
+{
+    "question":" The property in css used to change the background color of an element is?",
+    "choice1":"bgcolor",
+    "choice2":"color",
+    "choice3":"background-color",
+    "choice4":"All of the above",
+    "answer":3
+},
+{
+    "question":" Are the negative values are allowed in padding property?",
+    "choice1":"Yes",
+    "choice2":"No",
+    "choice3":"Can't say",
+    "choice4":"May be",
+    "answer":2
+}
+]
